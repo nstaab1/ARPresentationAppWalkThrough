@@ -7,7 +7,7 @@ Instuctions:
 -Download and install Unity( These instructions were made for version 2017.3 : https://unity3d.com/
 
 -Make sure to include the vuforia component
-(INSERT PICTURE OF VUFORIA INSTALL HERE)
+![alt text](https://github.com/nstaab1/ARPresentationAppWalkThrough/blob/master/screenshots/vuforiaInstallation%200.png)
 
 -Download the image you want to use as a marker. I used a dollar bill.
 

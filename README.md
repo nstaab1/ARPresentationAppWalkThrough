@@ -36,10 +36,10 @@ Instuctions:
 
 -Drag in/Import your downloaded image marker database
 
-(INSERT DRAG IMAGE DATABASE GIF)
+![alt text](https://github.com/nstaab1/ARPresentationAppWalkThrough/blob/master/screenshots/importImageMarkerDatabase.gif)
 
 -In Build Setting>Player Settings under XR settings enable the project to use Vuforia
-(INSERT CHANGE XR SETTINGS GIF)
+![alt text](https://github.com/nstaab1/ARPresentationAppWalkThrough/blob/master/screenshots/changeXrSettings.gif)
 
 -Select ARCamera and in Vuforia Behaviour select Open Vuforia configuration.
 
@@ -51,20 +51,19 @@ Instuctions:
 
 -In database Select image target object and from the dropdown select the correct database and make sure the image target is correct
 
-(addKeyAndDatabse gif)
+![alt text](https://github.com/nstaab1/ARPresentationAppWalkThrough/blob/master/screenshots/addKeyAndDatabse.gif)
 -Add Gameobject>Vuforia>Image	
 
 -In database Select image target object and from the dropdown select the correct database and make sure the image target is correct
 
-(addImageTarget gif)
+![alt text](https://github.com/nstaab1/ARPresentationAppWalkThrough/blob/master/screenshots/addImageTarget.gif)
 -Upload 3d model and place it inside image target and position above the marker
 
 -Make sure it is INSIDE (AKA a child of) the image target. GIFs dont show this until later on.
+![alt text](https://github.com/nstaab1/ARPresentationAppWalkThrough/blob/master/screenshots/upload%203d%20model.gif)
 
-(add 3d model gif)
 -Test to make sure image tracking is working
-
-(confirm tracking is working gif)
+![alt text](https://github.com/nstaab1/ARPresentationAppWalkThrough/blob/master/screenshots/confirmTrackingIsWorking.gif)
 
 -Assests>ImportPackages>CrossPlatformInput
 
@@ -73,7 +72,7 @@ Instuctions:
 -Remove Jump button
 
 -Make Joystick Movement Range 50
-(addjoystick gif)
+![alt text](https://github.com/nstaab1/ARPresentationAppWalkThrough/blob/master/screenshots/addjoystick.gif)
 
 -Go to 3D model  click Add component in the inspector and add rigidBody Component
 
@@ -85,12 +84,12 @@ Instuctions:
 
 -Uncheck play on awake.
 
-(rb and audio gif)
+![alt text](https://github.com/nstaab1/ARPresentationAppWalkThrough/blob/master/screenshots/rbAndAudio.gif)
 
 -Add a new script component named "MilleniumFalconMovement" on Millenium Falcon Model
 
 -Write the script for movement and audio. See attached script
-(addScript gif)
+![alt text](https://github.com/nstaab1/ARPresentationAppWalkThrough/blob/master/screenshots/addScript.gif)
 
 -Make sure everything builds correctly
 

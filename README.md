@@ -96,12 +96,14 @@ Instructions:
 
 
 -Build To Phone
+
 ^I will not write out how to get the application on your phone just google for directions on building to iOS or Android from Unity.
 
 
 Thank You For Following along with this tutorial. 
 
 Feel free to add me on LinkedIn: https://www.linkedin.com/in/nathanstaab/
+
 For business inquiries: nstaab443@gmail.com
 
 

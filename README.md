@@ -5,9 +5,12 @@ This is a repo that has the assets and instructions to build the AR Millenium Fa
 Instuctions:
 
 -Download and install Unity( These instructions were made for version 2017.3 : https://unity3d.com/
+
 -Make sure to include the vuforia component
 (INSERT PICTURE OF VUFORIA INSTALL HERE)
+
 -Download the image you want to use as a marker. I used a dollar bill.
+
 -Download the 3d model you would like to use. The Millenium Falcon model I used can be found here: https://free3d.com/3d-model/puo-4036-1699.html
 -Sign Up For Vuforia: https://developer.vuforia.com/
 -Under License Manager, create a license key. Save this for use later.

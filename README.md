@@ -30,9 +30,11 @@ Instuctions:
 -Change build setting to iOS or Android
 
 (INSERT GIF FOR CHANGING BUILD SETTINGS)
+
 -Under GameObjects > Vuforia creates an ARCamera. Delete the Main Camera
 
 (INSERT ADD AR CAMERA GIF)
+
 -Drag in/Import your downloaded image marker database
 
 (INSERT DRAG IMAGE DATABASE GIF)

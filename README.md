@@ -102,9 +102,11 @@ Instructions:
 
 Thank You For Following along with this tutorial. 
 
-Feel free to add me on LinkedIn: https://www.linkedin.com/in/nathanstaab/
+Feel free to add us on LinkedIn: 
+https://www.linkedin.com/in/nathanstaab/
+https://www.linkedin.com/in/martyaddante/
 
-For business inquiries: nstaab443@gmail.com
+For business inquiries email me here: nstaab443@gmail.com
 
 
 

@@ -68,17 +68,26 @@ Instuctions:
 -Assests>ImportPackages>CrossPlatformInput
 
 -Drag in Standard Assets>CrossPlatformInput>Prefabs>MobileSingleStickControl into the Hierarchy
+
 -Remove Jump button
+
 -Make Joystick Movement Range 50
 (addjoystick gif)
 
 -Go to 3D model  click Add component in the inspector and add rigidBody Component
+
 -Uncheck use gravity
+
 -Add an Audiosource component to the Millenium Falcon Model
+
 -Add the audio file to unity and drag it in to the audioClip selector on millenium falcon AudioSource component
+
 -Uncheck play on awake.
+
 (rb and audio gif)
+
 -Add a new script component named "MilleniumFalconMovement" on Millenium Falcon Model
+
 -Write the script for movement and audio. See attached script
 (addScript gif)
 

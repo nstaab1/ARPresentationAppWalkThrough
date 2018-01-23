@@ -28,12 +28,11 @@ Instuctions:
 -Open Unity and create a new project.
 
 -Change build setting to iOS or Android
-
-(INSERT GIF FOR CHANGING BUILD SETTINGS)
+![alt text](https://github.com/nstaab1/ARPresentationAppWalkThrough/blob/master/screenshots/changeBuildSettings.gif)
 
 -Under GameObjects > Vuforia creates an ARCamera. Delete the Main Camera
 
-(INSERT ADD AR CAMERA GIF)
+![alt text](https://github.com/nstaab1/ARPresentationAppWalkThrough/blob/master/screenshots/addArCamera.gif)
 
 -Drag in/Import your downloaded image marker database
 

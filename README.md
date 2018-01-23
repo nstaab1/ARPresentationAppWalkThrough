@@ -66,6 +66,7 @@ Instuctions:
 (confirm tracking is working gif)
 
 -Assests>ImportPackages>CrossPlatformInput
+
 -Drag in Standard Assets>CrossPlatformInput>Prefabs>MobileSingleStickControl into the Hierarchy
 -Remove Jump button
 -Make Joystick Movement Range 50
